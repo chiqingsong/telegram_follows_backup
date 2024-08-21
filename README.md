@@ -14,7 +14,7 @@ This project is a Python script that uses the Telethon library to export informa
 
     ```bash
     git clone https://github.com/chiqingsong/telegram_follows_backup.git
-    cd repository
+    cd telegram_follows_backup
     ```
 
 2. **Install Dependencies**
