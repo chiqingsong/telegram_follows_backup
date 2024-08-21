@@ -43,7 +43,7 @@ This project is a Python script that uses the Telethon library to export informa
 ## It should be noted that
 1. How to get your api_id & api_hash
    https://core.telegram.org/api/obtaining_api_id
-2. Due to my lack of ability(I can understand asynchronous programming), I can only write this script in a notebook, so running the ipynb file requires the corresponding jupyter environment
+2. Due to my lack of ability(I can't understand asynchronous programming), I can only write this script in a notebook, so running the ipynb file requires the corresponding jupyter environment
 3. If there are anyone willing to modify the code to be able to run in .py files, I would be very grateful
 4. Private groups or channels will not be accessible
 5. If the telethon or telegram api is changed, it is not guaranteed to remain in effect
